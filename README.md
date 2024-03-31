@@ -27,3 +27,6 @@ I'm a passionate **Full Stack Developer** currently pursuing my **Masters in Com
 - Email: [Varun](mailto:varunharish98@gmail.com)
 
 Feel free to reach out if you want to discuss collaborations, have any questions, or just want to connect!
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunHarish98)](https://github.com/anuraghazra/github-readme-stats)
