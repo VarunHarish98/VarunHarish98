@@ -13,7 +13,7 @@ I'm a passionate **Full Stack Developer** currently pursuing my **Masters in Com
 - ⚽ An avid Arsenal Fan (Go Gunners!!!).
 
 ## My Tech Stacks
-<img src="https://skillicons.dev/icons?i=js,java,python,react,html,css,nodejs,gql,redis,tailwind,git,three.js,redux&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=js,java,python,react,html,css,nodejs,gql,redis,tailwind,git,cassandra,redux,elasticsearch,express,mongodb,threejs&perline=5" alt="Tech Stack" /> 
 
 ## Skills
 
