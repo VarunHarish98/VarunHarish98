@@ -12,8 +12,8 @@ I'm a passionate **Full Stack Developer** currently pursuing my **Masters in Com
 - 📚 Enjoy reading books, especially those related to personal development. My favorite book is Atomic Habits by James Clear.
 - ⚽ An avid Arsenal Fan (Go Gunners!!!).
 
-## My Tech Stats
-<img src="https://skillicons.dev/icons?i=js,java,python,react,html,css,nodejs,gql,redis,tailwind,git&perline=5" alt="Tech Stack" /> 
+## My Tech Stacks
+<img src="https://skillicons.dev/icons?i=js,java,python,react,html,css,nodejs,gql,redis,tailwind,git,three.js,redux&perline=5" alt="Tech Stack" /> 
 
 ## Skills
 
