@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I'm a passionate **Full Stack Developer** currently pursuing my **Masters in Computer Engineering at Stony Brook University**, New York. With nearly 2 years of experience as a Software Developer at Accenture, I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack. 
+I'm a passionate **Full Stack Developer** currently pursuing my **Masters in Computer Engineering at Stony Brook University**, New York. With over 2+ years of experience as a Software Developer at Accenture, I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack. 
 
 ## About Me
 
