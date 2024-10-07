@@ -30,3 +30,6 @@ Feel free to reach out if you want to discuss collaborations, have any questions
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunHarish98)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=VarunHarish98)
+
