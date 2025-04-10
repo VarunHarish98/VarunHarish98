@@ -1,35 +1,66 @@
-# Hi there, I'm Varun! 👋
+<h1 align="center">Hi there, I'm Varun! 👋</h1>
 
-I'm a passionate **Full Stack Developer** currently pursuing my **Masters in Computer Engineering at Stony Brook University**, New York. With over 2+ years of experience as a Software Developer at Accenture, I specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack. 
+<p align="center">
+  <b>Full Stack Developer • Frontend Engineer • UI/UX Enthusiast</b><br>
+  Master's in Computer Engineering @ Stony Brook University, NY<br>
+  Ex Software Developer @ Accenture • Arsenal Fanatic ⚽ • Builder @ Heart
+</p>
 
-## About Me
+---
 
-- 🎓 Currently pursuing my Masters in Computer Engineering at Stony Brook University.
-- 💼 Previously worked as a Software Developer at Accenture, specializing in the MERN stack.
-- ⚙️ Proficient in JavaScript, HTML5, CSS3, React.js, Node.js, MongoDB, and more.
-- 🌱 Always eager to learn and explore new technologies.
-- ✈️ Love to travel and explore new unkonwn places.
-- 📚 Enjoy reading books, especially those related to personal development. My favorite book is Atomic Habits by James Clear.
-- ⚽ An avid Arsenal Fan (Go Gunners!!!).
+## 🧑‍💻 About Me
 
-## My Tech Stacks
-<img src="https://skillicons.dev/icons?i=js,java,python,react,html,css,nodejs,gql,redis,tailwind,git,cassandra,redux,elasticsearch,express,mongodb,threejs&perline=5" alt="Tech Stack" /> 
+- 🎓 Pursuing **MS in Computer Engineering** at **Stony Brook University**, New York.
+- 💼 Former **Software Developer at Accenture**, building scalable full stack applications.
+- 🎨 Passionate about clean UI, accessible design, and frontend performance.
+- ⚙️ Proficient across the stack — from React and Tailwind to Node.js, MongoDB, and Redis.
+- 🌱 Always learning — currently diving deeper into system design and software architecture.
+- 📚 Favorite read: _Atomic Habits_ by James Clear.
+- 🧭 Explorer by nature, traveler at heart.
+- ⚽ Loud and proud **Arsenal FC** supporter — North London is Red 🔴
 
-## Skills
+---
 
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Redux, Bootstrap
-- **Backend**: Node.js, Express.js, MongoDB, RESTful APIs
-- **Other Technologies**: Git, GitHub, ELK, Redis, Firebase, Postman
+## 🛠 My Tech Toolbox
 
-## Get in Touch
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,nodejs,express,mongodb,redux,firebase,git,docker,threejs,graphql,elasticsearch,redis&perline=9" />
+</div>
 
-- LinkedIn: [Varun Harish](https://www.linkedin.com/in/varun-harish1998/)
-- Email: [Varun](mailto:varunharish98@gmail.com)
+---
 
-Feel free to reach out if you want to discuss collaborations, have any questions, or just want to connect!
+## ✨ Featured Projects
 
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunHarish98)](https://github.com/anuraghazra/github-readme-stats)
+| Project | Description | Stack |
+|--------|-------------|--------|
+| 🔍 [**React Analyzer**](https://github.com/VarunHarish98/react-analyzer) | A UI prototype that simulates performance analysis of React components. Designed to visually highlight render bottlenecks and suggest memoization/code-splitting tips. | React, Tailwind, Framer Motion, jsPDF |
+| 🧠 [**NetflixGPT**](https://github.com/VarunHarish98/NetflixGPT) | A Netflix-style UI that integrates OpenAI's GPT to generate smart search suggestions. Combines entertainment UX with conversational AI. | React, TMDB API, GPT-3, Tailwind |
+| 🧬 [**ProDoc**](https://github.com/VarunHarish98/ProDoc) | AI-powered document assistant using LangChain + Pinecone. Search, summarize, and retrieve documents with natural language queries. | LangChain, Pinecone, OpenAI, Python |
+| 🌐 [**3D Portfolio**](https://github.com/VarunHarish98/3D-Portfolio) | Interactive portfolio built with WebGL & React Three Fiber, featuring 3D models and animations. | React Three Fiber, GSAP, Tailwind |
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=VarunHarish98)
+> 💡 Each project blends frontend precision with backend architecture and thoughtful UI design.
 
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VarunHarish98&show_icons=true&theme=react&count_private=true" />
+<!--   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunHarish98&layout=compact&theme=react" /> -->
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/varun-harish1998/)
+- 📧 [varunharish98@gmail.com](mailto:varunharish98@gmail.com)
+- 🌐 [Portfolio Website](http://varunharish.online/) <!-- Add real link if available -->
+
+> Whether it’s building a product, solving a bug, or geeking out over design systems — I’m always up for it.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VarunHarish98&style=flat-square&color=blue" alt="GitHub Profile Views" />
+</p>
